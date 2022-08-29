@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.clock {
+    background-color: black;
+    height: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.number-square {
+    height: 8rem;
+    width: 6rem;
+    font-size: 80px;
+    color: white;
+}
+.logo {
+    width: 8rem;
+}
